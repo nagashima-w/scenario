@@ -22,7 +22,6 @@ MP 7/7
 SAN 20
 
 STR 14 / CON 15 / POW 7 / DEX 13 / APP 16 / SIZ 10 / INT 13 / EDU 9
-DB 1D4
 ```
 
 - 技能値
